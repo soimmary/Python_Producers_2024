@@ -1,7 +1,7 @@
 # Курс: Программирование на Python для продюсеров
 
 ## Чатик курса в тг: 
-https://t.me/+7ximiCBNfj40Zjli
+https://t.me/+A2_b3ALoo-A3MTIy
 
 ## Формула оценки:
 
